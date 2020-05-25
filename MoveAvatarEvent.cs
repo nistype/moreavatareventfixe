@@ -64,4 +64,5 @@ namespace Plus.Communication.Packets.Incoming.Rooms.Engine
             User.MoveTo(MoveX, MoveY);
         }
     }
-}
+};
+
